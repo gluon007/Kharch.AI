@@ -1,0 +1,2 @@
+C:/Users/Tanishka/Desktop/Kharch.AI/app/frontend/kharchai/android/app/.cxx/Debug/2g4f6r69/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Tanishka/Desktop/Kharch.AI/app/frontend/kharchai/android/app/.cxx/Debug/2g4f6r69/x86_64/CMakeFiles/rebuild_cache.dir
